@@ -26,7 +26,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wrap_baseline/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="0" selection-end="19185" vertical-scroll-proportion="-4.0" vertical-offset="0" max-vertical-offset="4176">
+            <state line="11" column="47" selection-start="408" selection-end="408" vertical-scroll-proportion="-5.5" vertical-offset="0" max-vertical-offset="4176">
               <folding />
             </state>
           </provider>
@@ -35,16 +35,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="27" selection-start="972" selection-end="972" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="3520">
+            <state line="26" column="74" selection-start="1014" selection-end="1014" vertical-scroll-proportion="-4.5833335" vertical-offset="150" max-vertical-offset="3250">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dist/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="56" selection-start="1744" selection-end="1744" vertical-scroll-proportion="-7.3333335" vertical-offset="469" max-vertical-offset="4980">
+            <state line="23" column="0" selection-start="748" selection-end="748" vertical-scroll-proportion="0.5786164" vertical-offset="0" max-vertical-offset="3660">
               <folding />
             </state>
           </provider>
@@ -59,10 +59,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.yaml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="app.yaml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/app.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="215" selection-end="215" vertical-scroll-proportion="0.4085603" vertical-offset="0" max-vertical-offset="600">
+            <state line="14" column="0" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="0" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
               <folding />
             </state>
           </provider>
@@ -71,7 +80,7 @@
       <file leaf-file-name="web-app-cv2.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/public/web-app-cv2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="27" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+            <state line="9" column="0" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
@@ -106,18 +115,19 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/wrap_baseline/web-app-cv2.js" />
-        <option value="$PROJECT_DIR$/wrap_baseline/assets/js/app.js" />
         <option value="$PROJECT_DIR$/wrap_baseline/index.html" />
         <option value="$PROJECT_DIR$/bower.json" />
         <option value="$PROJECT_DIR$/Gruntfile.js" />
         <option value="$PROJECT_DIR$/app/assets/css/app.css" />
         <option value="$PROJECT_DIR$/app/styles/main.e611d72a.css" />
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/dist/styles/main.e611d72a.css" />
         <option value="$PROJECT_DIR$/dist/index.html" />
         <option value="$PROJECT_DIR$/dist/scripts/scripts.d8638923.js" />
         <option value="$PROJECT_DIR$/app/assets/js/app.js" />
         <option value="$PROJECT_DIR$/dist/app.yaml" />
+        <option value="$PROJECT_DIR$/wrap_baseline/assets/js/app.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/dist/public/index.html" />
       </list>
     </option>
   </component>
@@ -182,38 +192,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wrap_baseline" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cv_v2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cv_v2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wrap_baseline" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cv_v2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cv_v2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="dist" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -264,7 +242,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="styles" />
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -282,25 +260,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="resume" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cv_v2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cv_v2" />
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fonts" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -315,11 +279,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/dist/fonts" />
+      <recent name="$PROJECT_DIR$/app/assets/css" />
       <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/dist/fonts" />
       <recent name="$PROJECT_DIR$/dist" />
       <recent name="$PROJECT_DIR$/app/styles" />
-      <recent name="$PROJECT_DIR$/app/scripts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/dist" />
@@ -541,13 +505,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wrap_baseline/assets/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="0" selection-start="880" selection-end="880" vertical-scroll-proportion="0.0" vertical-offset="146" max-vertical-offset="660">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/img/logo/logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -602,30 +559,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wrap_baseline/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="0" selection-end="19185" vertical-scroll-proportion="-4.0" vertical-offset="0" max-vertical-offset="4176">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/public/web-app-cv2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="27" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="27" selection-start="972" selection-end="972" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="3520">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="56" selection-start="1744" selection-end="1744" vertical-scroll-proportion="-7.3333335" vertical-offset="469" max-vertical-offset="4980">
+        <state line="9" column="0" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
           <folding />
         </state>
       </provider>
@@ -651,13 +587,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="11" selection-start="558" selection-end="558" vertical-scroll-proportion="0.6128405" vertical-offset="0" max-vertical-offset="660">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/public/styles/main.e611d72a.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="60745" selection-start="60927" selection-end="60927" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
@@ -667,7 +596,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/app.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="215" selection-end="215" vertical-scroll-proportion="0.4085603" vertical-offset="0" max-vertical-offset="600">
+        <state line="14" column="0" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wrap_baseline/assets/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="52" selection-start="557" selection-end="557" vertical-scroll-proportion="0.6451613" vertical-offset="0" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wrap_baseline/assets/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="52458" selection-start="52623" selection-end="52623" vertical-scroll-proportion="0.12552302" vertical-offset="0" max-vertical-offset="478">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/web-app-cv2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="491">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/css/bootstrap-3.3.7.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="478">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wrap_baseline/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="47" selection-start="408" selection-end="408" vertical-scroll-proportion="-5.5" vertical-offset="0" max-vertical-offset="4176">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="74" selection-start="1014" selection-end="1014" vertical-scroll-proportion="-4.5833335" vertical-offset="150" max-vertical-offset="3250">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="748" selection-end="748" vertical-scroll-proportion="0.5786164" vertical-offset="0" max-vertical-offset="3660">
           <folding />
         </state>
       </provider>
