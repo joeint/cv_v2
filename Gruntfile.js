@@ -462,16 +462,13 @@ module.exports = function (grunt) {
     'useminPrepare',
     'concurrent:dist',
     'postcss',
-    'ngtemplates',
     'concat',
-    'ngAnnotate',
     'copy:dist',
     'cdnify',
     'cssmin',
     'uglify',
     'filerev',
-    'usemin',
-    'htmlmin'
+    'usemin'
   ]);
 
   grunt.registerTask('default', [
@@ -480,4 +477,22 @@ module.exports = function (grunt) {
     'test',
     'build'
   ]);
+
+    grunt.registerTask('build2', [
+        'clean:dist',
+        'wiredep',
+        'useminPrepare',
+        'concurrent:dist',
+        'postcss',
+        'ngtemplates',
+        'concat',
+        'ngAnnotate',
+        'copy:dist',
+        'cdnify',
+        'cssmin',
+        'uglify',
+        'filerev',
+        'usemin',
+        'htmlmin'
+    ]);
 };
