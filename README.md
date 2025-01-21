@@ -17,3 +17,14 @@ When building the production site
 ## Testing
 
 Running `grunt test` will run the unit tests with karma.
+
+## Modifying Prod
+* Clone the repo
+* Modify files in the dist folder
+  * To add new work history content
+    * Resumes are uploaded in the resume folder
+    * update the index.html
+      * link to the resume
+      * new li(s) and toggle switches
+* Run `gcloud app deploy` to deploy to prod or `gcloud app deploy --nopromote` to push a new version w/o overriding the main site
+* Push changes
